@@ -1,0 +1,13 @@
+D:\C#\ĐôÁnC# ZGearShop\ZGearShop\ZGearShop\bin\Debug\ZGearShop.exe.config
+D:\C#\ĐôÁnC# ZGearShop\ZGearShop\ZGearShop\bin\Debug\ZGearShop.exe
+D:\C#\ĐôÁnC# ZGearShop\ZGearShop\ZGearShop\bin\Debug\ZGearShop.pdb
+D:\C#\ĐôÁnC# ZGearShop\ZGearShop\ZGearShop\obj\Debug\ZGearShop.Properties.Resources.resources
+D:\C#\ĐôÁnC# ZGearShop\ZGearShop\ZGearShop\obj\Debug\ZGearShop.csproj.GenerateResource.cache
+D:\C#\ĐôÁnC# ZGearShop\ZGearShop\ZGearShop\obj\Debug\ZGearShop.exe
+D:\C#\ĐôÁnC# ZGearShop\ZGearShop\ZGearShop\obj\Debug\ZGearShop.pdb
+D:\C#\ĐôÁnC# ZGearShop\ZGearShop\ZGearShop\obj\Debug\ZGearShop.frm_dangnhap.resources
+D:\C#\ĐôÁnC# ZGearShop\ZGearShop\ZGearShop\obj\Debug\ZGearShop.frm_quanly.resources
+D:\C#\ĐôÁnC# ZGearShop\ZGearShop\ZGearShop\obj\Debug\ZGearShop.frm_nhanvien.resources
+D:\C#\ĐôÁnC# ZGearShop\ZGearShop\ZGearShop\obj\Debug\ZGearShop.frm_qlsanpham.resources
+D:\C#\ĐôÁnC# ZGearShop\ZGearShop\ZGearShop\obj\Debug\ZGearShop.csprojResolveAssemblyReference.cache
+D:\C#\ĐôÁnC# ZGearShop\ZGearShop\ZGearShop\obj\Debug\ZGearShop.Form1.resources
